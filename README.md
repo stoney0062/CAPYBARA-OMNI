@@ -14,10 +14,10 @@
 # Experimental Results
 
 ## Image performance
-<img src="image_benchmarks.png" alt="image_result" height="500">
+<img src="resources/image_benchmarks.png" alt="image_result" height="500">
 
 ## Video performance
-<img src="video_benchmarks.png" alt="video_result" height="468">
+<img src="resources/video_benchmarks.png" alt="video_result" height="468">
 
 ## Audio performance
-<img src="audio_benchmark.png" alt="audio_result" height="300">
+<img src="resources/audio_benchmark.png" alt="audio_result" height="300">
