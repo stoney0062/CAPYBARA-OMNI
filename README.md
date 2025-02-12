@@ -8,11 +8,10 @@
 3. We demonstrates a practical approach for building applications via the development of Omini-Chat model. -->
 1. Lightweight multimodal understanding training data and training strategies, achieving minimal performance loss after modality fusion.
 2. Comprehensive evaluation of the Omni model's performance in audio, image, and video understanding, demonstrating that our model significantly outperforms existing Omni models in all aspects and achieves a leading position compared to specialized models of the same scale.
-3. Through the training of the Omni-Chat model, we showcase the method for application development based on KwaiiYii-Omni.
+3. Through the training of the Omni-Chat model, we showcase the method for application development based on CAPYBARA-Omni.
 
 
 # Experimental Results
-## Textual performance
 
 ## Image performance
 <img src="image_benchmarks.png" alt="image_result" height="500">
