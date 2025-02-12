@@ -20,4 +20,4 @@
 <img src="resources/video_benchmarks.png" alt="video_result" height="468">
 
 ## Audio performance
-<img src="resources/audio_benchmark.png" alt="audio_result" height="250">
+<img src="resources/audio_benchmark.png" alt="audio_result" height="260">
