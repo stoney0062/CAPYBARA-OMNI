@@ -2,11 +2,7 @@
 2. Outstanding audio, image and video understanding performance belowing 10B;
 3. We show the method to build application via a Omini-Chat model; -->
 
-## Video Performance
-<video width="800" height="500" controls>
-  <source src="resources/mmexport1755850457417.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/4981439a-abc8-4ab9-bb02-f8a0459614a1
 
 # CAPYBARA-OMNI Overview
 <!-- xxx, features:
