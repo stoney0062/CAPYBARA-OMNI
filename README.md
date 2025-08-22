@@ -1,6 +1,13 @@
 <!-- 1. Lightweight training data and strategies for full modalities understanding. <!-- 轻量级的全模态训练数据及训练策略；
 2. Outstanding audio, image and video understanding performance belowing 10B;
 3. We show the method to build application via a Omini-Chat model; -->
+
+## Video Performance
+<video width="800" height="500" controls>
+  <source src="resources/mmexport1755850457417.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 # CAPYBARA-OMNI Overview
 <!-- xxx, features:
 1. Lightweight training data and strategies designed for comprehensive multimodal understanding.
